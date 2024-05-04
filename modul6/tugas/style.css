@@ -1,0 +1,39 @@
+.container{
+max-width: 300px;
+padding: 30px;
+margin: 200px auto;
+background-color: rgb(100, 255, 100);
+border: none;
+border-radius: 5px;
+text-align: left;
+}
+.login{
+font-size:x-large;
+margin-left: 120px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+color: rgb(1, 77, 1);
+}
+.kotak_user{
+    width: 100%;
+    padding: 5px;
+    border: none;
+    border-radius: 8px;
+}
+.kotak_email{
+    width: 100%;
+    padding: 5px;
+    border: none;
+    border-radius: 8px;
+}
+.kotak_password{
+    width: 100%;
+    padding: 5px;
+    border: none;
+    border-radius: 8px;
+}
+body{
+    background-color: rgb(212, 255, 179);
+}
+.user{
+    text-align: left;
+}
